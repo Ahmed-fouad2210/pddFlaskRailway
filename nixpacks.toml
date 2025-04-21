@@ -1,0 +1,8 @@
+[phases.setup]
+nixPkgs = [
+  "libGL",
+  "libGLU",
+  "mesa",
+  "ffmpeg",
+  "zlib"
+]
